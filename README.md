@@ -1,2 +1,1 @@
-# 24001083-km6-ama-Todolist-ch3
- 
+# Challenges 3 - Amalia Rodhya Ulfa - UPN "veteran" Jawa Timur Prodi Sistem Informasi - Todolist
